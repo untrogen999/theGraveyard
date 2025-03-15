@@ -1,0 +1,4025 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<?xml-model href="graveyard.rnc" type="application/relax-ng-compact-syntax"?>-->
+<root>
+    <lot section="1" number="12">
+        <firstOwner>
+            <persName>
+                <firstName>Harrold</firstName>
+                <surName>Henderson</surName>
+            </persName>
+            <persName>
+                <firstName>Anna</firstName>
+                <MI>G</MI>
+                <surName>Henderson</surName>
+            </persName>
+        </firstOwner>
+
+        <secondOwner>
+            <persName>
+                <firstName>Paullos</firstName>
+                <MI>N</MI>
+                <surName>Riley</surName>
+                <purchased>
+                    <date>1942-01-01</date>
+                </purchased>
+            </persName>
+
+        </secondOwner>
+
+        <occupant>
+            <img src="cemeteryPictures/Riley.jpg"/>
+            <persName>
+                <firstName>Paullos</firstName>
+                <MI>N</MI>
+                <surName>Riley</surName>
+            </persName>
+            <lotLocation>4</lotLocation>
+            <interred>
+                <note>N/A</note>
+            </interred>
+            <deathDate>
+                <date>
+                    <note type="deathYear">1919</note>
+                </date>
+            </deathDate>
+            <age>
+                <note type="birthYear">1875</note>
+            </age>
+            <color>unknown</color>
+            <gender>unknown</gender>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Riley.jpg"/>
+            <persName>
+                <firstName>Fannie</firstName>
+                <surName>Riley</surName>
+            </persName>
+            <lotLocation>5</lotLocation>
+            <interred>
+                <date>1944-11-17</date>
+                <intermentNo>104</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1944-11-14</date>
+            </deathDate>
+            <deathPlace>
+                <city>Manor</city>
+            </deathPlace>
+            <age>68</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>unknown</causeofDeath>
+
+        </occupant>
+
+        <occupant>
+
+            <persName>
+                <firstName>James</firstName>
+                <surName>Henderson</surName>
+            </persName>
+            <lotLocation>1</lotLocation>
+            <interred>
+                <date>1931-05-24</date>
+            </interred>
+            <deathDate>
+                <date>1931-05-21</date>
+            </deathDate>
+            <deathPlace>
+                <city>Mann County</city>
+                <state>New York</state>
+            </deathPlace>
+            <age>49</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Gress.jpg"/>
+            <persName>
+                <firstName>Edward</firstName>
+                <surName>Gress</surName>
+            </persName>
+            <lotLocation>2</lotLocation>
+            <interred>
+                <date>1943-03-26</date>
+            </interred>
+            <deathDate>
+                <date>
+                    <note type="deathYear">1943</note>
+                </date>
+            </deathDate>
+            <age>
+                <note type="birthYear">1861</note>
+            </age>
+            <color>unknown</color>
+            <gender>unknown</gender>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Gress.jpg"/>
+            <persName>
+                <firstName>Isabella</firstName>
+                <MI>M</MI>
+                <surName>Gress</surName>
+            </persName>
+            <lotLocation>3</lotLocation>
+            <interred>
+                <date>1955-08-19</date>
+                <intermentNo>63</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1955-08-16</date>
+            </deathDate>
+            <deathPlace>
+                <city>Delanco</city>
+                <state>New Jersey</state>
+            </deathPlace>
+            <age>88</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+    </lot>
+
+    <lot section="1" number="9">
+        <firstOwner>
+            <persName>
+                <firstName>John</firstName>
+                <surName>McCune</surName>
+            </persName>
+            <persName>
+                <firstName>Mary</firstName>
+                <MI>E</MI>
+                <surName>McCune</surName>
+            </persName>
+        </firstOwner>
+
+        <occupant>
+            <img src="cemeteryPictures/McCune1.jpg"/>
+            <persName>
+                <firstName>John</firstName>
+                <surName>McCune</surName>
+            </persName>
+            <lotLocation>1</lotLocation>
+            <interred>
+                <date>1957-02-06</date>
+                <intermentNo>8</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1957-02-03</date>
+            </deathDate>
+            <deathPlace>
+                <city>Irwin</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>75</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/McCune1.jpg"/>
+            <persName>
+                <firstName>Mary</firstName>
+                <middleName>Emma</middleName>
+                <surName>McCune</surName>
+            </persName>
+            <lotLocation>2</lotLocation>
+            <interred>
+                <date>1959-11-28</date>
+                <intermentNo>94</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1959-11-25</date>
+            </deathDate>
+            <deathPlace>
+                <city>Irwin</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>73</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Mitchell2.jpg"/>
+            <persName>
+                <firstName>James</firstName>
+                <middleName>Leroy</middleName>
+                <surName>Mitchell</surName>
+                <title type="military">SGT.</title>
+                <desc type="military">U.S. ARMY W.W.II</desc>
+            </persName>
+            <lotLocation>3</lotLocation>
+            <interred>
+                <date>1972-11-13</date>
+                <intermentNo>92</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1972-11-10</date>
+            </deathDate>
+            <deathPlace>
+                <city>Pittsburgh</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>60</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>cancer of lung</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Mitchell2.jpg"/>
+            <persName>
+                <firstName>Sara</firstName>
+                <MI>M</MI>
+                <surName>Mitchell</surName>
+            </persName>
+            <lotLocation>4</lotLocation>
+            <interred>
+                <date>1991-06-25</date>
+                <intermentNo>36</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1991-06-21</date>
+            </deathDate>
+            <deathPlace>
+                <city>Greensburg</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>74</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/McCune2.jpg"/>
+            <!-- verify image -->
+            <persName>
+                <firstName>Edwin</firstName>
+                <surName>McCune</surName>
+            </persName>
+            <lotLocation>5</lotLocation>
+            <interred>
+                <date>1930-11-18</date>
+            </interred>
+            <deathDate>
+                <date>1930-11-16</date>
+            </deathDate>
+            <deathPlace>
+                <city>Irwin</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>19</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/McCune2.jpg"/>
+            <!-- verify image -->
+            <persName>
+                <firstName>Casper</firstName>
+                <surName>McCune</surName>
+            </persName>
+            <lotLocation>6</lotLocation>
+            <interred>
+                <date>1930-11-18</date>
+            </interred>
+            <deathDate>
+                <date>1930-11-16</date>
+            </deathDate>
+            <deathPlace>
+                <city>Irwin</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>24</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Kelly.jpg"/>
+            <persName>
+                <firstName>Grace</firstName>
+                <MI>E</MI>
+                <surName>McCune</surName>
+                <surName>Kelly</surName>
+            </persName>
+            <lotLocation>8</lotLocation>
+            <interred>
+                <date>2008-07-02</date>
+            </interred>
+            <deathDate>
+                <date>2008-06-30</date>
+            </deathDate>
+            <deathPlace>
+                <city>Greensburg</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>95</age>
+            <color>unknown</color>
+            <gender>female</gender>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Kelly.jpg"/>
+            <persName>
+                <firstName>Edward</firstName>
+                <MI>P</MI>
+                <surName>Kelly</surName>
+            </persName>
+            <lotLocation>7A</lotLocation>
+            <interred>
+                <date>1962-11-27</date>
+                <intermentNo>82</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1961-02-01</date>
+            </deathDate>
+            <deathPlace>
+                <city>Greensburg</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>48</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Zimmerman.jpg"/>
+            <persName>
+                <firstName>Daniel</firstName>
+                <middleName>Edward</middleName>
+                <surName>Zimmerman</surName>
+            </persName>
+            <lotLocation>7B</lotLocation>
+            <interred>
+                <date>1971-11-09</date>
+                <intermentNo>76</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1971-11-08</date>
+            </deathDate>
+            <deathPlace>
+                <city>Pittsburgh</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age type="days">34</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>cardio respiratory arrest</causeofDeath>
+        </occupant>
+    </lot>
+
+    <lot section="1" number="8">
+        <firstOwner>
+            <persName>
+                <firstName>Ella</firstName>
+                <MI>H</MI>
+                <surName>Kleist</surName>
+            </persName>
+        </firstOwner>
+
+        <occupant>
+            <img src="cemeteryPictures/Kleist.jpg"/>
+            <persName>
+                <firstName>Adam</firstName>
+                <middleName>Howard</middleName>
+                <surName>Kleist</surName>
+            </persName>
+            <lotLocation>4</lotLocation>
+            <interred>
+                <date>1932-05-06</date>
+            </interred>
+            <deathDate>
+                <date>1932-05-02</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>46</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Kleist.jpg"/>
+            <persName>
+                <firstName>Ella</firstName>
+                <MI>H</MI>
+                <surName>Kleist</surName>
+            </persName>
+            <lotLocation>5</lotLocation>
+            <interred>
+                <date>1981-08-30</date>
+                <intermentNo>71</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1981-08-27</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>94</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>respiratory paralysis medollary infarction</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/King2.jpg"/>
+            <persName>
+                <firstName>Andrew</firstName>
+                <MI>F</MI>
+                <surName>King</surName>
+            </persName>
+            <lotLocation>1</lotLocation>
+            <interred>
+                <date>1943-01-12</date>
+                <intermentNo>06</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1943-01-09</date>
+            </deathDate>
+            <deathPlace>
+                <city>Wilkinsburg</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>82</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/King2.jpg"/>
+            <persName>
+                <firstName>Elizabeth</firstName>
+                <MI>C</MI>
+                <surName>King</surName>
+            </persName>
+            <lotLocation>2</lotLocation>
+            <interred>
+                <date>1949-01-21</date>
+                <intermentNo>08</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1949-01-18</date>
+            </deathDate>
+            <deathPlace>
+                <city>Wilkinsburg</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>83</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/King3.jpg"/>
+            <persName>
+                <firstName>John</firstName>
+                <middleName>Kleman</middleName>
+                <surName>King</surName>
+            </persName>
+            <lotLocation>3</lotLocation>
+            <interred>
+                <date>1978-03-08</date>
+                <intermentNo>24</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1978-03-04</date>
+            </deathDate>
+            <deathPlace>
+                <city>Tarpon Springs</city>
+                <state>Florida</state>
+                <note>transferred body from Florida</note>
+            </deathPlace>
+            <age>
+                <note type="birthYear">1899</note>
+            </age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>natural</causeofDeath>
+        </occupant>
+    </lot>
+    <lot section="1" number="7">
+        <firstOwner>
+            <persName>
+                <firstName>William</firstName>
+                <middleName>Clifford</middleName>
+                <surName>Menges</surName>
+            </persName>
+        </firstOwner>
+        <secondOwner>
+            <persName>
+                <firstName>Mary</firstName>
+                <MI>K</MI>
+                <surName>Bostwick</surName>
+            </persName>
+        </secondOwner>
+
+        <occupant>
+            <img src="cemeteryPictures/King1.jpg"/>
+            <persName>
+                <firstName>Carrie</firstName>
+                <surName>King</surName>
+                <surName>Menges</surName>
+            </persName>
+            <lotLocation>2</lotLocation>
+            <interred>
+                <date>1945-12-31</date>
+                <intermentNo>108</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1945-12-28</date>
+            </deathDate>
+            <deathPlace>
+                <city>Wilkinsburg</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>54</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Menges.jpg"/>
+            <persName>
+                <firstName>Charles</firstName>
+                <middleName>Andrew</middleName>
+                <surName>Menges</surName>
+            </persName>
+            <lotLocation>3</lotLocation>
+            <interred>
+                <date>1929-06-08</date>
+            </interred>
+            <deathDate>
+                <date>1929-06-06</date>
+            </deathDate>
+            <deathPlace>
+                <city>Irwin</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>6</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Bostwick3.jpg"/>
+            <persName>
+                <firstName>Joellen</firstName>
+                <surName>Bostwick</surName>
+            </persName>
+            <lotLocation>4</lotLocation>
+            <interred>
+                <date>1964-04-08</date>
+                <intermentNo>23</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1964-04-06</date>
+            </deathDate>
+            <deathPlace>
+                <city>Wilkinsburg</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age type="days">3</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>cerebral</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Bostwick.jpg"/>
+            <persName>
+                <firstName>James</firstName>
+                <MI>M</MI>
+                <surName>Bostwick</surName>
+            </persName>
+            <lotLocation>5</lotLocation>
+            <interred>
+                <date>1976-09-18</date>
+            </interred>
+            <deathDate>
+                <date>1976-09-16</date>
+            </deathDate>
+            <deathPlace>
+                <city>Shadyside</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>85</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Bostwick.jpg"/>
+            <persName>
+                <firstName>Mary</firstName>
+                <MI>K</MI>
+                <surName>Bostwick</surName>
+            </persName>
+            <lotLocation>6</lotLocation>
+            <interred>
+                <date>1979-11-15</date>
+                <intermentNo>75</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1979-11-12</date>
+            </deathDate>
+            <deathPlace>
+                <city>Wilkinsburg</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>85</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>congestive failure</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Bostwick1.jpg"/>
+            <persName>
+                <firstName>James</firstName>
+                <middleName>King</middleName>
+                <surName>Bostwick</surName>
+            </persName>
+            <lotLocation>7</lotLocation>
+            <interred>
+                <date>2008-03-07</date>
+            </interred>
+            <deathDate>
+                <date>2008-03-03</date>
+            </deathDate>
+            <deathPlace>
+                <city>Pittsburgh</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>97</age>
+            <gender>male</gender>
+            <color>unknown</color>
+            <causeofDeath>cardiac arrhythmia</causeofDeath>
+        </occupant>
+
+        <!-- Hey, where is Lucy Bostwick? She is on the tombstone - <img src="cemeteryPictures/Bostwick1.jpg"/> -->
+    </lot>
+
+    <lot section="1" number="6">
+        <firstOwner>
+            <persName>
+                <firstName>Amanda </firstName>
+                <surName>Vogel</surName>
+            </persName>
+        </firstOwner>
+
+        <occupant>
+            <img src="cemeteryPictures/Vogel3.jpg"/>
+            <persName>
+                <firstName>Albert</firstName>
+                <surName>Vogel</surName>
+            </persName>
+            <lotLocation>1</lotLocation>
+            <interred>
+                <date>1930-06-04</date>
+            </interred>
+            <deathDate>
+                <date>1930-06-01</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>76</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Vogel3.jpg"/>
+            <persName>
+                <firstName>Amanda</firstName>
+                <surName>Vogel</surName>
+            </persName>
+            <lotLocation>2</lotLocation>
+            <interred>
+                <date>1944-08-23</date>
+                <intermentNo>80</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1944-08-21</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>87</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Vogel1.jpg"/>
+            <persName>
+                <firstName>Charles</firstName>
+                <MI>E</MI>
+                <surName>Vogel</surName>
+            </persName>
+            <lotLocation>3</lotLocation>
+            <interred>
+                <date>1968-04-21</date>
+                <intermentNo>46</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1968-04-18</date>
+            </deathDate>
+            <deathPlace>
+                <city>Greensburg</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>80</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>leukemia</causeofDeath>
+        </occupant>
+        <occupant>
+            <img src="cemeteryPictures/Vogel1.jpg"/>
+            <persName>
+                <firstName>Edna</firstName>
+                <MI>L</MI>
+                <surName>Vogel</surName>
+            </persName>
+            <lotLocation>4</lotLocation>
+            <interred>
+                <date>1990-09-06</date>
+                <intermentNo>62</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1990-09-02</date>
+            </deathDate>
+            <deathPlace>
+                <city>Hempfield</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>87</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>adenocarcinoma hepatic duct</causeofDeath>
+        </occupant>
+    </lot>
+
+    <lot section="1" number="5">
+
+        <firstOwner>
+            <persName>
+                <firstName>Hannah</firstName>
+                <MI>M</MI>
+                <surName>Young</surName>
+            </persName>
+        </firstOwner>
+
+        <occupant>
+            <img src="cemeteryPictures/Young.jpg"/>
+            <persName>
+                <firstName>Charles</firstName>
+                <MI>P</MI>
+                <surName>Young</surName>
+                <title type="military">PVT.</title>
+                <desc type="military">CO. M. 16TH REG. PA. VOL. SPANISH AM. WAR</desc>
+            </persName>
+            <lotLocation>1</lotLocation>
+            <interred>
+                <date>1937-08-13</date>
+                <intermentNo>59</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1937-08-10</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>65</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Young.jpg"/>
+            <persName>
+                <firstName>Hannah</firstName>
+                <MI>M</MI>
+                <surName>Young</surName>
+            </persName>
+            <lotLocation>2</lotLocation>
+            <interred>
+                <date>1959-08-15</date>
+                <intermentNo>69</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1959-08-12</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>85</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>squamous cell carcinoma with metastasis</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Stein2.jpg"/>
+            <persName>
+                <firstName>Henry</firstName>
+                <MI>H</MI>
+                <surName>Stein</surName>
+            </persName>
+            <lotLocation>3</lotLocation>
+            <interred>
+                <date>1945-04-30</date>
+                <intermentNo>40</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1945-04-23</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>49</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>adenocarcinoma hepatic duct</causeofDeath>
+        </occupant>
+
+        <!--Hey, where is Edna M. Stein? She is on tombstone - <img src="cemeteryPictures/Stein2.jpg"/>-->
+        <occupant>
+            <img src="cemeteryPictures/Stein1.jpg"/>
+            <persName>
+                <firstName>Charles</firstName>
+                <MI>H</MI>
+                <surName>Stein</surName>
+                <title type="military">SGT.</title>
+                <desc type="military">398 BOMB CP AAF WORLD WAR II</desc>
+            </persName>
+            <lotLocation>6</lotLocation>
+            <interred>
+                <date>1944-06-15</date>
+                <intermentNo>44</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1944-11-30</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>20</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>died in combat WWII</causeofDeath>
+        </occupant>
+
+    </lot>
+
+    <lot section="1" number="4">
+        <firstOwner>
+            <persName>
+                <firstName>Ida</firstName>
+                <middleName>Mae</middleName>
+                <surName>Apple</surName>
+            </persName>
+        </firstOwner>
+
+        <occupant>
+            <img src="cemeteryPictures/Apple.jpg"/>
+            <persName>
+                <firstName>George</firstName>
+                <MI>W</MI>
+                <surName>Apple</surName>
+            </persName>
+            <lotLocation>1</lotLocation>
+            <interred>
+                <date>1953-11-21</date>
+                <intermentNo>71</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1953-11-18</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>67</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Apple.jpg"/>
+            <persName>
+                <firstName>Ida</firstName>
+                <middleName>Mae</middleName>
+                <surName>Apple</surName>
+            </persName>
+            <lotLocation>2</lotLocation>
+            <interred>
+                <date>1977-08-31</date>
+                <intermentNo>61</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1977-08-28</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>91</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>congestive heart failure</causeofDeath>
+        </occupant>
+    </lot>
+
+    <lot section="1" number="3">
+
+        <firstOwner>
+            <persName>
+                <firstName>Norman</firstName>
+                <MI>F</MI>
+                <surName>Wallace</surName>
+            </persName>
+        </firstOwner>
+
+        <occupant>
+            <img src="cemeteryPictures/Wallace.jpg"/>
+            <persName>
+                <firstName>Norman</firstName>
+                <MI>F</MI>
+                <surName>Wallace</surName>
+            </persName>
+            <lotLocation>4</lotLocation>
+            <interred>
+                <date>2013-12-16</date>
+                <intermentNo>60</intermentNo>
+            </interred>
+            <deathDate>
+                <date>2013-12-12</date>
+            </deathDate>
+            <deathPlace>
+                <city>New Wilmington</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>97</age>
+            <gender>male</gender>
+            <color>unknown</color>
+            <causeofDeath>ischemic heart disease</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Wallace.jpg"/>
+            <persName>
+                <firstName>Clara</firstName>
+                <MI>K</MI>
+                <surName>Wallace</surName>
+            </persName>
+            <lotLocation>5</lotLocation>
+            <interred>
+                <date>2002-12-06</date>
+                <intermentNo>80</intermentNo>
+            </interred>
+            <deathDate>
+                <date>2002-12-03</date>
+            </deathDate>
+            <deathPlace>
+                <city>Greensburg</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>92</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>alzhemier disease</causeofDeath>
+        </occupant>
+    </lot>
+
+    <lot section="1" number="33">
+        <firstOwner>
+            <persName>
+                <firstName>A.J.</firstName>
+                <middleName>Bert A.</middleName>
+                <surName>DeWalt</surName>
+            </persName>
+        </firstOwner>
+
+        <occupant>
+            <img src="cemeteryPictures/Dewalt3.jpg"/>
+            <persName>
+                <firstName>Blanche</firstName>
+                <MI>M</MI>
+                <surName>DeWalt</surName>
+            </persName>
+            <lotLocation>1</lotLocation>
+            <interred>
+                <date>1963-10-30</date>
+                <intermentNo>82</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1963-10-26</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>77</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>heart disease</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Dewalt2.jpg"/>
+            <persName>
+                <firstName>Bert</firstName>
+                <middleName>A.J.</middleName>
+                <surName>DeWalt</surName>
+            </persName>
+            <lotLocation>2</lotLocation>
+            <interred>
+                <date>1974-06-24</date>
+                <intermentNo>58</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1974-06-20</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>90</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>cardio pulmonary disease</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Dewalt1.jpg"/>
+            <persName>
+                <firstName>Violet</firstName>
+                <surName>DeWalt</surName>
+            </persName>
+            <lotLocation>3</lotLocation>
+            <interred>
+                <date>1929-05-02</date>
+            </interred>
+            <deathDate>
+                <date>1929-04-28</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>42</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+    </lot>
+
+    <lot section="1" number="32">
+        <firstOwner>
+            <persName>
+                <firstName>William</firstName>
+                <surName>Del Vitto</surName>
+            </persName>
+            <persName>
+                <firstName>Jessie</firstName>
+                <surName>Del Vitto</surName>
+            </persName>
+        </firstOwner>
+
+        <occupant>
+            <img src="cemeteryPictures/Miller.jpg"/>
+            <persName>
+                <firstName>William</firstName>
+                <MI>S</MI>
+                <surName>Miller</surName>
+            </persName>
+            <lotLocation>6</lotLocation>
+            <cremated>
+                <date>1969-12-15</date>
+            </cremated>
+            <interred>
+                <date>1970-06-20</date>
+            </interred>
+            <deathDate>
+                <date>1969-12-10</date>
+            </deathDate>
+            <deathPlace>
+                <city>Phoenix</city>
+                <state>Arizona</state>
+            </deathPlace>
+            <age>
+                <note type="birthYear">1897</note>
+            </age>
+            <gender>male</gender>
+            <color>unknown</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Miller.jpg"/>
+            <persName>
+                <firstName>Janet</firstName>
+                <MI>D</MI>
+                <surName>Miller</surName>
+            </persName>
+            <lotLocation>7</lotLocation>
+            <cremated>
+                <date>1969-06-26</date>
+            </cremated>
+            <interred>
+                <date>1969-07-26</date>
+                <intermentNo>73</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1969-06-23</date>
+            </deathDate>
+            <deathPlace>
+                <city>Phoenix</city>
+                <state>Arizona</state>
+            </deathPlace>
+            <age>74</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Docherty.jpg"/>
+            <persName>
+                <firstName>Anna</firstName>
+                <!--<surName>Daugherty</surName>-->
+                <surName>Docherty</surName>
+                <nickName>Annie</nickName>
+                <!--spelling on tombstone-->
+            </persName>
+            <lotLocation>8A</lotLocation>
+            <interred>
+                <date>1936-10-20</date>
+                <intermentNo>86</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1936-10-17</date>
+            </deathDate>
+            <deathPlace>
+                <city>Hempfield</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>75</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Docherty.jpg"/>
+            <persName>
+                <firstName>Daniel</firstName>
+                <!--<surName>Daugherty</surName>-->
+                <surName>Docherty</surName>
+                <!--spelling on tombstone-->
+            </persName>
+            <lotLocation>8B</lotLocation>
+            <interred>
+                <date>1938-01-21</date>
+                <intermentNo>4</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1938-01-18</date>
+            </deathDate>
+            <deathPlace>
+                <city>Manor</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>76</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Del-Vitto.jpg"/>
+            <persName>
+                <firstName>Paul</firstName>
+                <MI>W</MI>
+                <surName>Del-Vitto</surName>
+            </persName>
+            <lotLocation>3</lotLocation>
+            <interred>
+                <date>1929-01-27</date>
+            </interred>
+            <deathDate>
+                <date>1929-01-21</date>
+            </deathDate>
+            <deathPlace>
+                <city>Penn</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>16</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+    </lot>
+
+    <lot section="1" number="31">
+        <firstOwner>
+            <persName>
+                <firstName>Evaline</firstName>
+                <MI>E</MI>
+                <surName>Helman</surName>
+            </persName>
+        </firstOwner>
+
+        <occupant>
+            <img src="cemeteryPictures/Helman9.jpg"/>
+            <persName>
+                <firstName>David</firstName>
+                <middleName>Alexander</middleName>
+                <surName>Helman</surName>
+            </persName>
+            <lotLocation>3</lotLocation>
+            <cremated>
+                <date>1981-05-04</date>
+            </cremated>
+            <interred>
+                <date>1981-07-02</date>
+                <intermentNo>57</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1981-04-30</date>
+            </deathDate>
+            <deathPlace>
+                <city>San Francisco</city>
+                <state>California</state>
+            </deathPlace>
+            <age>44</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Helman6.jpg"/>
+            <persName>
+                <firstName>Elmer</firstName>
+                <middleName>Grant</middleName>
+                <surName>Helman</surName>
+                <title type="military">PVT.</title>
+                <desc type="military">Co. 68, 17th Battalion 153 Depot Brigade U.S. Army</desc>
+            </persName>
+            <lotLocation>4</lotLocation>
+            <interred>
+                <date>1930-08-23</date>
+            </interred>
+            <deathDate>
+                <date>1930-08-20</date>
+            </deathDate>
+            <deathPlace>
+                <city>Irwin</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>35</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Helman5.jpg"/>
+            <persName>
+                <firstName>Frank</firstName>
+                <MI>W</MI>
+                <surName>Helman</surName>
+            </persName>
+            <lotLocation>6</lotLocation>
+            <interred>
+                <date>1961-01-29</date>
+                <intermentNo>9</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1961-01-26</date>
+            </deathDate>
+            <deathPlace>
+                <city>Greensburg</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>67</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+    </lot>
+    <lot section="1" number="10">
+        <firstOwner>
+            <persName>
+                <firstName>Evaline</firstName>
+                <MI>E</MI>
+                <surName>Helman</surName>
+            </persName>
+        </firstOwner>
+        <occupant>
+            <img src="cemeteryPictures/Helman13.jpg"/>
+            <persName>
+                <firstName>Fred</firstName>
+                <MI>K</MI>
+                <surName>Helman</surName>
+                <title type="military">S/SGT</title>
+                <desc type="military">U.S.A.A.F. 484 BOMB GROUP H. 824 BOMB SQUADRON U.S.
+                    ARMY</desc>
+            </persName>
+            <lotLocation>1</lotLocation>
+            <interred>
+                <date>1948-03-27</date>
+                <intermentNo>28</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1948-03-25</date>
+            </deathDate>
+            <deathPlace>
+                <city>Fairmont</city>
+                <state>West Virginia</state>
+            </deathPlace>
+            <age>22</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+        <occupant>
+            <img src="cemeteryPictures/Helman14.jpg"/>
+            <persName>
+                <firstName>Mervyn</firstName>
+                <MI>P</MI>
+                <surName>Helman</surName>
+                <genName>Jr.</genName>
+                <title type="military">T/4</title>
+                <desc type="military">3 RD INF. REGT. W.W. II</desc>
+            </persName>
+            <lotLocation>3</lotLocation>
+            <interred>
+                <date>1990-12-17</date>
+                <intermentNo>84</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1990-12-13</date>
+            </deathDate>
+            <deathPlace>
+                <city>College Township</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>75</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>ischemic cerebrovascular accident</causeofDeath>
+        </occupant>
+        <occupant>
+            <img src="cemeteryPictures/Helman12.jpg"/>
+            <persName>
+                <firstName>Evaline</firstName>
+                <MI>E</MI>
+                <surName>Helman</surName>
+            </persName>
+            <lotLocation>4</lotLocation>
+            <interred>
+                <date>1936-01-21</date>
+                <intermentNo>15</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1936-01-18</date>
+            </deathDate>
+            <deathPlace>
+                <city>Scottsdale</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>17</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+        <occupant>
+            <img src="cemeteryPictures/Helman11.jpg"/>
+            <persName>
+                <firstName>Ruth</firstName>
+                <MI>E</MI>
+                <surName>Kennedy</surName>
+                <surName>Helman</surName>
+            </persName>
+            <lotLocation>5</lotLocation>
+            <interred>
+                <date>1947-09-24</date>
+                <intermentNo>64</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1947-09-22</date>
+            </deathDate>
+            <deathPlace>
+                <city>Fairmont</city>
+                <state>West Virginia</state>
+            </deathPlace>
+            <age>60</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+        <occupant>
+            <img src="cemeteryPictures/Helman10.jpg"/>
+            <persName>
+                <firstName>Mervyn</firstName>
+                <MI>Painter</MI>
+                <surName>Helman</surName>
+            </persName>
+            <lotLocation>6</lotLocation>
+            <interred>
+                <date>1970-03-11</date>
+                <intermentNo>24</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1970-03-08</date>
+            </deathDate>
+            <deathPlace>
+                <city>Fairmont</city>
+                <state>West Virginia</state>
+            </deathPlace>
+            <age>82</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+    </lot>
+
+    <lot section="1" number="30">
+        <firstOwner>
+            <persName>
+                <firstName>Evaline</firstName>
+                <MI>E</MI>
+                <surName>Helman</surName>
+            </persName>
+        </firstOwner>
+
+        <occupant>
+            <img src="cemeteryPictures/Helman7.jpg"/>
+            <persName>
+                <firstName>James</firstName>
+                <middleName>Alvin</middleName>
+                <surName>Helman</surName>
+            </persName>
+            <lotLocation>2</lotLocation>
+            <interred>
+                <date>1960-06-17</date>
+                <intermentNo>49</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1960-06-14</date>
+            </deathDate>
+            <deathPlace>
+                <city>Irwin</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>35</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Helman3.jpg"/>
+            <persName>
+                <firstName>Esther</firstName>
+                <middleName>Gootee</middleName>
+                <surName>Helman</surName>
+                <surName>Beasley</surName>
+            </persName>
+            <lotLocation>4</lotLocation>
+            <interred>
+                <date>1985-03-14</date>
+                <intermentNo>32</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1985-03-05</date>
+            </deathDate>
+            <deathPlace>
+                <province>Ontario</province>
+                <country>Canada</country>
+            </deathPlace>
+            <age>80</age>
+            <gender>female</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Helman2.jpg"/>
+            <persName>
+                <firstName>William</firstName>
+                <MI>A</MI>
+                <surName>Helman</surName>
+            </persName>
+            <lotLocation>5</lotLocation>
+            <interred>
+                <date>1977-07-07</date>
+                <intermentNo>48</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1977-07-03</date>
+            </deathDate>
+            <deathPlace>
+                <city>Canten</city>
+                <state>Ohio</state>
+            </deathPlace>
+            <age>79</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>provisional</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Helman1.jpg"/>
+            <persName>
+                <firstName>Emma</firstName>
+                <surName>Helman</surName>
+            </persName>
+            <lotLocation>6</lotLocation>
+            <interred>
+                <date>1970-05-10</date>
+            </interred>
+            <deathDate>
+                <date>
+                    <note type="deathYear">1970</note>
+                </date>
+            </deathDate>
+            <age>
+                <note type="birthYear">1902</note>
+            </age>
+            <color>unknown</color>
+            <gender>unknown</gender>
+        </occupant>
+    </lot>
+
+    <lot section="1" number="29">
+        <firstOwner>
+            <persName>
+                <firstName>William</firstName>
+                <MI>J</MI>
+                <surName>Brezler</surName>
+            </persName>
+            <persName>
+                <firstName>Harry</firstName>
+                <MI>M</MI>
+                <surName>Brezler</surName>
+            </persName>
+        </firstOwner>
+
+        <occupant>
+            <img src="cemeteryPictures/Baugh.jpg"/>
+            <persName>
+                <firstName>William</firstName>
+                <surName>Baugh</surName>
+            </persName>
+            <lotLocation>1</lotLocation>
+            <interred>
+                <date>1953-01-25</date>
+                <intermentNo>7</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1953-01-22</date>
+            </deathDate>
+            <deathPlace>
+                <city>Penn</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>75</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Baugh.jpg"/>
+            <persName>
+                <firstName>Sara</firstName>
+                <middleName>Eva</middleName>
+                <surName>Baugh</surName>
+            </persName>
+            <lotLocation>2</lotLocation>
+            <interred>
+                <date>1945-03-19</date>
+                <intermentNo>25</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1945-03-16</date>
+            </deathDate>
+            <deathPlace>
+                <city>Penn</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>65</age>
+            <gender>female</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Brezler6.jpg"/>
+            <persName>
+                <firstName>Anna</firstName>
+                <middleName>Barbara</middleName>
+                <surName>Brezler</surName>
+            </persName>
+            <lotLocation>3</lotLocation>
+            <interred>
+                <date>1955-03-20</date>
+                <intermentNo>23</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1955-03-17</date>
+            </deathDate>
+            <deathPlace>
+                <city>Penn</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>78</age>
+            <gender>female</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Brezler5.jpg"/>
+            <persName>
+                <firstName>William</firstName>
+                <MI>J</MI>
+                <surName>Brezler</surName>
+            </persName>
+            <lotLocation>4</lotLocation>
+            <interred>
+                <date>1953-03-31</date>
+                <intermentNo>26</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1953-03-27</date>
+            </deathDate>
+            <deathPlace>
+                <city>Greensburg</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>78</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Brezler4.jpg"/>
+            <persName>
+                <firstName>Charles</firstName>
+                <middleName>Luther</middleName>
+                <surName>Brezler</surName>
+            </persName>
+            <lotLocation>5</lotLocation>
+            <interred>
+                <date>1948-10-27</date>
+                <intermentNo>81</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1948-10-24</date>
+            </deathDate>
+            <deathPlace>
+                <city>Hempfield</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>71</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Brezler3.jpg"/>
+            <persName>
+                <firstName>Marion</firstName>
+                <MI>M</MI>
+                <surName>Brezler</surName>
+            </persName>
+            <lotLocation>6</lotLocation>
+            <interred>
+                <date>1963-06-23</date>
+                <intermentNo>47</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1963-06-20</date>
+            </deathDate>
+            <deathPlace>
+                <city>Penn</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>80</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Brezler2.jpg"/>
+            <persName>
+                <firstName>Harry</firstName>
+                <middleName>Milton</middleName>
+                <surName>Brezler</surName>
+            </persName>
+            <lotLocation>8</lotLocation>
+            <interred>
+                <date>1965-12-11</date>
+                <intermentNo>103</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1965-12-04</date>
+            </deathDate>
+            <deathPlace>
+                <city>Colorado Springs</city>
+                <state>Colorado</state>
+            </deathPlace>
+            <age>
+                <note type="birthYear">1886</note>
+            </age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Brezler1.jpg"/>
+            <persName>
+                <firstName>Elmer</firstName>
+                <MI>F</MI>
+                <surName>Brezler</surName>
+            </persName>
+            <lotLocation>9</lotLocation>
+            <interred>
+                <date>1934-11-18</date>
+                <intermentNo>91</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1934-11-14</date>
+            </deathDate>
+            <deathPlace>
+                <city>Penn</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>45</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+    </lot>
+    <lot section="1" number="28West">
+        <firstOwner>
+            <persName>
+                <firstName>Jessie</firstName>
+                <MI>M</MI>
+                <surName>Gongaware</surName>
+            </persName>
+            <persName>
+                <firstName>Charles</firstName>
+                <MI>E</MI>
+                <surName>Gongaware</surName>
+            </persName>
+            <persName>
+                <firstName>Gladys</firstName>
+                <MI>M</MI>
+                <surName>Gongaware</surName>
+            </persName>
+        </firstOwner>
+
+        <occupant>
+            <img src="cemeteryPictures/Gongaware3.jpg"/>
+            <persName>
+                <firstName>Edward</firstName>
+                <middleName>Jacob</middleName>
+                <surName>Gongaware</surName>
+            </persName>
+            <lotLocation>1</lotLocation>
+            <interred>
+                <date>1941-02-02</date>
+                <intermentNo>8</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1941-01-30</date>
+            </deathDate>
+            <deathPlace>
+                <city>North Huntington</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>55</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Gongaware3.jpg"/>
+            <persName>
+                <firstName>Jessie</firstName>
+                <MI>M</MI>
+                <surName>Sweitzer</surName>
+                <surName>Gongaware</surName>
+            </persName>
+            <lotLocation>2</lotLocation>
+            <interred>
+                <date>1959-06-02</date>
+                <intermentNo>47</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1959-05-30</date>
+            </deathDate>
+            <deathPlace>
+                <city>Irwin</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>72</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>heart attack</causeofDeath>
+        </occupant>
+        <occupant>
+            <img src="cemeteryPictures/Gongaware1.jpg"/>
+            <persName>
+                <firstName>Jessie</firstName>
+                <MI>W</MI>
+                <surName>Gongaware</surName>
+            </persName>
+            <lotLocation>4R</lotLocation>
+            <interred>
+                <note>N/A</note>
+            </interred>
+            <reinterred>
+                <date>1940-05-21</date>
+                <intermentNo>39</intermentNo>
+                <note>Removed from 181-F</note>
+            </reinterred>
+            <deathDate>
+                <date>
+                    <note type="deathYear">1920</note>
+                </date>
+            </deathDate>
+            <age>
+                <note type="birthYear">1882</note>
+            </age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+        <occupant>
+            <img src="cemeteryPictures/Gongaware1.jpg"/>
+            <persName>
+                <firstName>William</firstName>
+                <surName>Gongaware</surName>
+            </persName>
+            <lotLocation>4B</lotLocation>
+            <interred>
+                <note>N/A</note>
+            </interred>
+            <reinterred>
+                <date>1940-05-21</date>
+                <note>Removed from 181-F</note>
+                <note>Buried with Jessie W. Gongaware</note>
+            </reinterred>
+            <deathDate>
+                <date>
+                    <note type="deathYear">1918</note>
+                </date>
+            </deathDate>
+            <age>
+                <note type="birthYear">1918</note>
+            </age>
+            <gender>unknown</gender>
+            <color>unknown</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+        <occupant>
+            <img src="cemeteryPictures/Gongaware1.jpg"/>
+            <persName>
+                <firstName>Infant</firstName>
+                <surName>Gongaware</surName>
+            </persName>
+            <lotLocation>4A</lotLocation>
+            <interred>
+                <note>N/A</note>
+            </interred>
+            <reinterred>
+                <date>1940-05-21</date>
+                <note>Removed from 181-F</note>
+                <note>Buried with Jessie W. Gongaware</note>
+            </reinterred>
+            <deathDate>
+                <date>
+                    <note type="deathYear">1911</note>
+                </date>
+            </deathDate>
+            <age>
+                <note type="birthYear">1911</note>
+            </age>
+            <gender>unknown</gender>
+            <color>unknown</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Gongaware3.jpg"/>
+            <persName>
+                <firstName>Gladys</firstName>
+                <middleName>Myrtle</middleName>
+                <surName>Gongaware</surName>
+            </persName>
+            <lotLocation>3</lotLocation>
+            <interred>
+                <date>1990-04-09</date>
+                <intermentNo>27</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1990-04-07</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>76</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>sepsis</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Gongaware2.jpg"/>
+            <persName>
+                <firstName>Charles</firstName>
+                <MI>E</MI>
+                <surName>Gongaware</surName>
+            </persName>
+            <lotLocation>4</lotLocation>
+            <interred>
+                <date>1990-04-23</date>
+                <intermentNo>30</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1990-04-20</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>72</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>heart attack</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Gongaware2.jpg"/>
+            <persName>
+                <firstName>Elise</firstName>
+                <MI>I</MI>
+                <surName>Gongaware</surName>
+            </persName>
+            <lotLocation>5</lotLocation>
+            <interred>
+                <date>2002-07-11</date>
+                <intermentNo>45</intermentNo>
+            </interred>
+            <deathDate>
+                <date>2002-07-05</date>
+            </deathDate>
+            <deathPlace>
+                <city>Greensburg</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>84</age>
+            <gender>female</gender>
+            <color>white</color>
+        </occupant>
+    </lot>
+    <lot section="1" number="28East">
+        <firstOwner>
+            <persName>
+                <firstName>Joseph</firstName>
+                <MI>W</MI>
+                <surName>Bratton</surName>
+            </persName>
+        </firstOwner>
+
+        <occupant>
+            <img src="cemeteryPictures/Bratton.jpg"/>
+            <persName>
+                <firstName>Carolyn</firstName>
+                <surName>Bratton</surName>
+            </persName>
+            <lotLocation>2</lotLocation>
+            <interred>
+                <date>1949-04-19</date>
+                <intermentNo>36</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1949-04-16</date>
+            </deathDate>
+            <deathPlace>
+                <city>Homestead</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>65</age>
+            <gender>female</gender>
+            <color>white</color>
+        </occupant>
+    </lot>
+
+    <lot section="1" number="26_27" type="mausoleum">
+        <img src="cemeteryPictures/Woodruff.jpg"/>
+        <firstOwner>
+            <persName>
+                <firstName>Max</firstName>
+                <MI>A</MI>
+                <surName>Woodruff</surName>
+            </persName>
+        </firstOwner>
+
+        <occupant>
+            <img src="cemeteryPictures/Woodruff2.jpg"/>
+            <persName>
+                <firstName>Jane</firstName>
+                <MI>B</MI>
+                <surName>Nicely</surName>
+                <surName>Woodruff</surName>
+            </persName>
+            <lotLocation>2</lotLocation>
+            <interred>
+                <date>1989-04-14</date>
+                <intermentNo>39</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1989-04-11</date>
+            </deathDate>
+            <deathPlace>
+                <city>Greensburg</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>78</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>sepsis</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Woodruff2.jpg"/>
+            <persName>
+                <firstName>Max</firstName>
+                <MI>A</MI>
+                <surName>Woodruff</surName>
+            </persName>
+            <lotLocation>3</lotLocation>
+            <interred>
+                <date>1943-08-17</date>
+                <intermentNo>72</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1943-08-13</date>
+            </deathDate>
+            <deathPlace>
+                <city>Greensburg</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>60</age>
+            <gender>male</gender>
+            <color>unknown</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Woodruff1.jpg"/>
+            <persName>
+                <firstName>Ruth</firstName>
+                <MI>E</MI>
+                <surName>Woodruff</surName>
+            </persName>
+            <lotLocation>4</lotLocation>
+            <interred>
+                <date>1992-10-19</date>
+                <intermentNo>36</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1992-10-16</date>
+            </deathDate>
+            <deathPlace>
+                <city>Hempfield</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>85</age>
+            <gender>female</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Woodruff3.jpg"/>
+            <persName>
+                <firstName>John</firstName>
+                <middleName>Edward</middleName>
+                <surName>Woodruff</surName>
+            </persName>
+            <lotLocation>6</lotLocation>
+            <interred>
+                <date>1967-03-24</date>
+                <intermentNo>23</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1967-03-21</date>
+            </deathDate>
+            <deathPlace>
+                <city>Greensburg</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>56</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+        <occupant>
+            <img src="cemeteryPictures/Woodruff4.jpg"/>
+            <persName>
+                <firstName>Maude</firstName>
+                <middleName>Elizabeth</middleName>
+                <surName>Swank</surName>
+                <surName>Woodruff</surName>
+            </persName>
+            <lotLocation>7</lotLocation>
+            <interred>
+                <date>1937-02-16</date>
+                <intermentNo>22</intermentNo>
+            </interred>
+            <reinterred>
+                <date>1939-12-23</date>
+                <intermentNo>87</intermentNo>
+                <note>Removal of body from mausolem to Woodruff mausolem</note>
+            </reinterred>
+            <deathDate>
+                <date>1937-02-13</date>
+            </deathDate>
+            <deathPlace>
+                <city>Greensburg</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>53</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>unknown</causeofDeath>
+        </occupant>
+    </lot>
+
+
+    <lot section="1" number="25East">
+        <firstOwner>
+            <persName>
+                <firstName>Robert</firstName>
+                <MI>W</MI>
+                <surName>Sweitzer</surName>
+            </persName>
+        </firstOwner>
+
+        <firstOwner>
+
+            <persName>
+                <note>Owns first 3 plots</note>
+                <firstName>Hilda</firstName>
+                <middleName>Emila</middleName>
+                <surName>Kroon</surName>
+            </persName>
+        </firstOwner>
+
+        <occupant>
+            <img src="cemeteryPictures/Sweitzer.jpg"/>
+            <persName>
+                <firstName>Robert</firstName>
+                <MI>W</MI>
+                <surName>Sweitzer</surName>
+            </persName>
+            <lotLocation>4</lotLocation>
+            <interred>
+                <date>1978-08-26</date>
+                <intermentNo>69</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1978-08-24</date>
+            </deathDate>
+            <deathPlace>
+                <city>Latrobe</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>95</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>heart attack</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Sweitzer.jpg"/>
+            <persName>
+                <firstName>Edna</firstName>
+                <MI>F</MI>
+                <surName>Sweitzer</surName>
+            </persName>
+            <lotLocation>5</lotLocation>
+            <interred>
+                <date>1945-02-15</date>
+                <intermentNo>12</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1945-02-13</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>66</age>
+            <gender>female</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Kroon.jpg"/>
+            <persName>
+                <firstName>Hilda</firstName>
+                <middleName>Emila</middleName>
+                <surName>Kroon</surName>
+            </persName>
+            <lotLocation>2</lotLocation>
+            <interred>
+                <date>1963-12-08</date>
+                <intermentNo>99</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1963-12-05</date>
+            </deathDate>
+            <deathPlace>
+                <city>Bradford</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>82</age>
+            <gender>female</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Kroon.jpg"/>
+            <persName>
+                <firstName>Carl</firstName>
+                <middleName>Albert</middleName>
+                <surName>Kroon</surName>
+            </persName>
+            <lotLocation>1</lotLocation>
+            <interred>
+                <date>1944-04-12</date>
+                <intermentNo>41</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1944-04-09</date>
+            </deathDate>
+            <deathPlace>
+                <city>Irwin</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>68</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+    </lot>
+
+    <lot section="1" number="25West">
+        <firstOwner>
+            <persName>
+                <firstName>Carl</firstName>
+                <MI>S</MI>
+                <surName>Bowman</surName>
+            </persName>
+
+            <persName>
+                <firstName>Vera</firstName>
+                <MI>M</MI>
+                <surName>Bowman</surName>
+            </persName>
+        </firstOwner>
+
+        <firstOwner>
+            <persName>
+                <note>owns first two plots</note>
+                <firstName>E</firstName>
+                <middleName>Park</middleName>
+                <surName>Lauffer</surName>
+            </persName>
+
+        </firstOwner>
+        <img src="cemeteryPictures/Bowman1.jpg"/>
+        <occupant>
+            <img src="cemeteryPictures/Bowman3.jpg"/>
+            <persName>
+                <firstName>Carl</firstName>
+                <MI>I</MI>
+                <surName>Bowman</surName>
+            </persName>
+            <lotLocation>4</lotLocation>
+            <interred>
+                <date>1959-01-04</date>
+                <intermentNo>1</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1958-12-31</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>53</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>coronary occlusion</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Bowman2.jpg"/>
+            <persName>
+                <firstName>Vera</firstName>
+                <MI>M</MI>
+                <surName>Bowman</surName>
+            </persName>
+            <lotLocation>5</lotLocation>
+            <interred>
+                <date>1958-07-11</date>
+                <intermentNo>56</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1958-07-09</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>50</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>malnutrition</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Park.jpg"/>
+            <persName>
+                <firstName>Eliphas</firstName>
+                <middleName>Park</middleName>
+                <surName>Lauffer</surName>
+            </persName>
+            <lotLocation>1</lotLocation>
+            <interred>
+                <date>1951-08-22</date>
+                <intermentNo>58</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1951-08-19</date>
+            </deathDate>
+            <deathPlace>
+                <city>Manor</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>70</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Flora.jpg"/>
+            <persName>
+                <firstName>Flora</firstName>
+                <MI>M</MI>
+                <surName>Lauffer</surName>
+            </persName>
+            <lotLocation>2</lotLocation>
+            <interred>
+                <date>1966-07-04</date>
+                <intermentNo>62</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1966-07-02</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>83</age>
+            <gender>female</gender>
+            <color>white</color>
+        </occupant>
+    </lot>
+
+    <lot section="1" number="24East">
+        <firstOwner>
+            <persName>
+                <firstName>Alvin</firstName>
+                <surName>Buckley</surName>
+            </persName>
+        </firstOwner>
+        <img src="cemeteryPictures/Sec1_Lot24.jpg"/>
+        <occupant>
+            <persName>
+                <firstName>Alvin</firstName>
+                <surName>Buckley</surName>
+            </persName>
+            <lotLocation>1</lotLocation>
+            <interred>
+                <date>1932-02-06</date>
+            </interred>
+            <deathDate>
+                <date>1932-02-03</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>75</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+        <occupant>
+            <persName>
+                <firstName>Mary</firstName>
+                <middleName>Elizabeth</middleName>
+                <surName>Buckley</surName>
+            </persName>
+            <lotLocation>2</lotLocation>
+            <interred>
+                <date>1951-08-11</date>
+                <intermentNo>55</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1951-08-09</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>91</age>
+            <gender>female</gender>
+            <color>white</color>
+        </occupant>
+        <occupant>
+            <persName>
+                <firstName>Jacob</firstName>
+                <surName>Buckley</surName>
+            </persName>
+            <lotLocation>3</lotLocation>
+            <interred>
+                <date>1966-08-17</date>
+                <intermentNo>77</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1966-08-15</date>
+            </deathDate>
+            <deathPlace>
+                <city>Hempfield</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>80</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+    </lot>
+
+    <lot section="1" number="24West">
+        <firstOwner>
+            <persName>
+                <firstName>Caroline</firstName>
+                <surName>Lauffer</surName>
+                <surName>Abraham</surName>
+                <purchased>
+                    <date>1937-07-14</date>
+                </purchased>
+            </persName>
+
+
+            <persName>
+                <firstName>Paul</firstName>
+                <MI>J</MI>
+                <surName>Abraham</surName>
+            </persName>
+
+            <persName>
+                <firstName>Clara</firstName>
+                <MI>A</MI>
+                <surName>Lauffer</surName>
+            </persName>
+        </firstOwner>
+
+        <img src="cemeteryPictures/Lauffer6.jpg"/>
+        <occupant>
+            <img src="cemeteryPictures/Lauffer3.jpg"/>
+            <persName>
+                <firstName>Caroline</firstName>
+                <surName>Abraham</surName>
+            </persName>
+            <lotLocation>1</lotLocation>
+            <interred>
+                <date>1986-08-01</date>
+                <intermentNo>75</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1986-07-28</date>
+            </deathDate>
+            <deathPlace>
+                <city>Greensburg</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>95</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>respiratory arrest</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Lauffer2.jpg"/>
+            <persName>
+                <firstName>Paul</firstName>
+                <middleName>James</middleName>
+                <surName>Abraham</surName>
+            </persName>
+            <lotLocation>2</lotLocation>
+            <interred>
+                <date>1964-03-25</date>
+                <intermentNo>19</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1964-03-22</date>
+            </deathDate>
+            <deathPlace>
+                <city>Greensburg</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>76</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>leukemia</causeofDeath>
+        </occupant>
+
+        <img src="cemeteryPictures/Lauffer5.jpg"/>
+        <occupant>
+            <img src="cemeteryPictures/Lauffer4.jpg"/>
+            <persName>
+                <firstName>Henry</firstName>
+                <middleName>Albert</middleName>
+                <surName>Lauffer</surName>
+            </persName>
+            <lotLocation>3</lotLocation>
+            <interred>
+                <date>1937-06-10</date>
+                <intermentNo>47</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1937-06-07</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>78</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Lauffer1.jpg"/>
+            <persName>
+                <firstName>Clara</firstName>
+                <middleName>Alice</middleName>
+                <surName>Lauffer</surName>
+            </persName>
+            <lotLocation>4</lotLocation>
+            <interred>
+                <date>1960-06-16</date>
+                <intermentNo>48</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1960-06-13</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>92</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>coronary occlusion</causeofDeath>
+        </occupant>
+
+    </lot>
+
+    <lot section="1" number="23WestA">
+        <firstOwner>
+            <persName>
+                <firstName>Edna</firstName>
+                <MI>W</MI>
+                <surName>Brisbine</surName>
+            </persName>
+        </firstOwner>
+
+        <firstOwner>
+
+            <persName>
+                <firstName>Everett</firstName>
+                <MI>S.C.</MI>
+                <surName>Sorber</surName>
+                <note>owns first three plots</note>
+            </persName>
+
+            <persName>
+                <firstName>Madeline</firstName>
+                <MI>C</MI>
+                <surName>Sorber</surName>
+            </persName>
+        </firstOwner>
+
+        <occupant>
+            <img src="cemeteryPictures/Brisbine.jpg"/>
+            <persName>
+                <firstName>John</firstName>
+                <MI>C</MI>
+                <surName>Brisbine</surName>
+                <genName>Doctor</genName>
+            </persName>
+            <lotLocation>4</lotLocation>
+            <interred>
+                <date>1956-07-06</date>
+                <intermentNo>45</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1956-07-04</date>
+            </deathDate>
+            <deathPlace>
+                <city>Greensburg</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>74</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>cerebral hemorrhage</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Brisbine.jpg"/>
+            <persName>
+                <firstName>Edna</firstName>
+                <MI>W</MI>
+                <surName>Brisbine</surName>
+            </persName>
+            <lotLocation>5</lotLocation>
+            <interred>
+                <date>1965-04-22</date>
+                <intermentNo>30</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1965-04-21</date>
+            </deathDate>
+            <deathPlace>
+                <city>Greensburg</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>80</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>uremia</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Underwood.jpg"/>
+            <persName>
+                <firstName>Jane</firstName>
+                <surName>Brisbine</surName>
+                <surName>Underwood</surName>
+            </persName>
+            <lotLocation>6</lotLocation>
+            <interred>
+                <date>1960-11-25</date>
+                <intermentNo>85</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1960-11-23</date>
+            </deathDate>
+            <deathPlace>
+                <city>Washington</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>49</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>subarachnoid hemorrhage</causeofDeath>
+        </occupant>
+    </lot>
+
+    <lot section="1" number="23East">
+        <firstOwner>
+            <persName>
+                <firstName>Elizabeth</firstName>
+                <surName>Reynolds</surName>
+            </persName>
+        </firstOwner>
+
+        <occupant>
+            <persName>
+                <firstName>Samuel</firstName>
+                <MI>J</MI>
+                <surName>Reynolds</surName>
+            </persName>
+            <lotLocation>1</lotLocation>
+            <interred>
+                <date>1932-10-13</date>
+            </interred>
+            <deathDate>
+                <date>1932-10-10</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>60</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <persName>
+                <firstName>Elizabeth</firstName>
+                <surName>Reynolds</surName>
+            </persName>
+            <lotLocation>2</lotLocation>
+            <interred>
+                <date>1962-12-22</date>
+                <intermentNo>92</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1962-12-19</date>
+            </deathDate>
+            <deathPlace>
+                <city>Torrance</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>87</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>cerebral hemmorrhage</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Montgomery2.jpg"/>
+            <persName>
+                <firstName>Cecil</firstName>
+                <MI>R</MI>
+                <surName>Montgomery</surName>
+            </persName>
+            <lotLocation>4</lotLocation>
+            <interred>
+                <date>1969-05-12</date>
+                <intermentNo>41</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1969-05-09</date>
+            </deathDate>
+            <deathPlace>
+                <city>Sarasota</city>
+                <state>Florida</state>
+            </deathPlace>
+            <age>65</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Montgomery1.jpg"/>
+            <persName>
+                <firstName>Margaret</firstName>
+                <surName>Montgomery</surName>
+            </persName>
+            <lotLocation>5</lotLocation>
+            <interred>
+                <date>1952-01-09</date>
+                <intermentNo>3</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1952-01-06</date>
+            </deathDate>
+            <deathPlace>
+                <city>Pleasant Valley</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>50</age>
+            <gender>female</gender>
+            <color>white</color>
+        </occupant>
+    </lot>
+
+    <lot section="1" number="21_22" type="mausoleum">
+        <img src="cemeteryPictures/Walthour.jpg"/>
+        <firstOwner>
+            <persName>
+                <firstName>Bessie</firstName>
+                <MI>T</MI>
+                <surName>Walthour</surName>
+            </persName>
+        </firstOwner>
+        <secondOwner>
+            <persName>
+                <firstName>Christy</firstName>
+                <surName>Walthour</surName>
+            </persName>
+        </secondOwner>
+        <occupant>
+            <img src="cemeteryPictures/Walthour2.jpg"/>
+            <persName>
+                <firstName>Emma</firstName>
+                <MI>G</MI>
+                <surName>Walthour</surName>
+            </persName>
+            <lotLocation>1</lotLocation>
+            <interred>
+                <date>1978-10-26</date>
+                <intermentNo>86</intermentNo>
+            </interred>
+            <deathDate>
+                <date>
+                    <note type="deathYear">1915</note>
+                </date>
+            </deathDate>
+            <age type="hours">1</age>
+            <gender>female</gender>
+            <color>white</color>
+        </occupant>
+        <occupant>
+            <img src="cemeteryPictures/Walthour1.jpg"/>
+            <persName>
+                <firstName>Bessie</firstName>
+                <MI>T</MI>
+                <surName>Walthour</surName>
+            </persName>
+            <lotLocation>2</lotLocation>
+            <interred>
+                <date>1975-06-27</date>
+                <intermentNo>45</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1975-06-24</date>
+            </deathDate>
+            <deathPlace>
+                <city>North Huntington</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>83</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>cardiac failure</causeofDeath>
+        </occupant>
+        <occupant>
+            <img src="cemeteryPictures/Walthour3.jpg"/>
+            <persName>
+                <firstName>Christopher</firstName>
+                <MI>C</MI>
+                <surName>Walthour</surName>
+            </persName>
+            <lotLocation>3</lotLocation>
+            <interred>
+                <date>1940-12-09</date>
+                <intermentNo>101</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1940-12-07</date>
+            </deathDate>
+            <deathPlace>
+                <city>Manor</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>49</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+        <occupant>
+            <img src="cemeteryPictures/Walthour4.jpg"/>
+            <persName>
+                <firstName>Christopher</firstName>
+                <MI>C</MI>
+                <surName>Walthour</surName>
+                <genName>Junior</genName>
+            </persName>
+            <lotLocation>4</lotLocation>
+            <interred>
+                <date>2003-08-19</date>
+                <intermentNo>53</intermentNo>
+            </interred>
+            <deathDate>
+                <date>2003-08-15</date>
+            </deathDate>
+            <deathPlace>
+                <city>Greensburg</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>86</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>cardio pulmonary arrest</causeofDeath>
+        </occupant>
+    </lot>
+
+    <lot section="1" number="20">
+        <firstOwner>
+            <persName>
+                <firstName>Margaret</firstName>
+                <surName>Ferguson</surName>
+            </persName>
+
+            <persName>
+                <firstName>John</firstName>
+                <MI>F</MI>
+                <surName>Buck</surName>
+            </persName>
+        </firstOwner>
+
+        <occupant>
+            <img src="cemeteryPictures/Ferguson.jpg"/>
+            <persName>
+                <firstName>Margaret</firstName>
+                <surName>Ferguson</surName>
+            </persName>
+            <lotLocation>1</lotLocation>
+            <interred>
+                <date>1940-11-24</date>
+                <intermentNo>98</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1940-11-22</date>
+            </deathDate>
+            <deathPlace>
+                <city>Penn Township</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>83</age>
+            <gender>female</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Ferguson.jpg"/>
+            <persName>
+                <firstName>Samuel</firstName>
+                <surName>Ferguson</surName>
+            </persName>
+            <lotLocation>2</lotLocation>
+            <interred>
+                <date>1933-06-24</date>
+                <intermentNo>45</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1933-06-21</date>
+            </deathDate>
+            <deathPlace>
+                <city>Penn Township</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>75</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Buck.jpg"/>
+            <persName>
+                <firstName>John</firstName>
+                <MI>F</MI>
+                <surName>Buck</surName>
+            </persName>
+            <lotLocation>4</lotLocation>
+            <interred>
+                <date>1956-11-26</date>
+                <intermentNo>76</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1956-11-23</date>
+            </deathDate>
+            <deathPlace>
+                <city>Sussex</city>
+                <state>Delaware</state>
+            </deathPlace>
+            <age>86</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Buck.jpg"/>
+            <persName>
+                <firstName>Sarah</firstName>
+                <middleName>Agnes</middleName>
+                <surName>Buck</surName>
+            </persName>
+            <lotLocation>5</lotLocation>
+            <interred>
+                <date>1934-02-21</date>
+                <intermentNo>19</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1934-02-18</date>
+            </deathDate>
+            <deathPlace>
+                <city>Pitcarin</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>64</age>
+            <gender>female</gender>
+            <color>white</color>
+        </occupant>
+    </lot>
+
+    <lot section="1" number="19">
+        <firstOwner>
+            <persName>
+                <firstName>Mearl</firstName>
+                <MI>J</MI>
+                <surName>Peterson</surName>
+            </persName>
+        </firstOwner>
+
+        <firstOwner>
+            <persName>
+                <firstName>Harvey</firstName>
+                <MI>S</MI>
+                <surName>Sorber</surName>
+            </persName>
+
+            <persName>
+                <firstName>Della</firstName>
+                <middleName>Ann</middleName>
+                <surName>Sorber</surName>
+            </persName>
+        </firstOwner>
+
+        <occupant>
+            <img src="cemeteryPictures/Peterson.jpg"/>
+            <persName>
+                <firstName>Mearl</firstName>
+                <MI>J</MI>
+                <surName>Peterson</surName>
+            </persName>
+            <lotLocation>4</lotLocation>
+            <interred>
+                <date>1986-09-27</date>
+                <intermentNo>89</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1986-09-25</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>61</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>cancer of lung</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Peterson.jpg"/>
+            <persName>
+                <firstName>Janet</firstName>
+                <MI>E</MI>
+                <surName>Peterson</surName>
+            </persName>
+            <lotLocation>5</lotLocation>
+            <interred>
+                <date>1996-06-21</date>
+                <intermentNo>43</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1996-06-17</date>
+            </deathDate>
+            <deathPlace>
+                <city>Orlando</city>
+                <state>Florida</state>
+            </deathPlace>
+            <age>67</age>
+            <gender>female</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Sorber.jpg"/>
+            <persName>
+                <firstName>Harvey</firstName>
+                <MI>S</MI>
+                <surName>Sorber</surName>
+            </persName>
+            <lotLocation>1</lotLocation>
+            <interred>
+                <date>1950-07-18</date>
+                <intermentNo>56</intermentNo>
+            </interred>
+            <reinterred>
+                <date>1950-08-18</date>
+                <intermentNo>64</intermentNo>
+                <note>opened and moved over 8 inches</note>
+            </reinterred>
+            <deathDate>
+                <date>1950-07-16</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>86</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Sorber.jpg"/>
+            <persName>
+                <firstName>Della</firstName>
+                <middleName>Ann</middleName>
+                <surName>Sorber</surName>
+            </persName>
+            <lotLocation>2</lotLocation>
+            <interred>
+                <date>1966-07-30</date>
+                <intermentNo>71</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1966-07-28</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>97</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>congestive heart failure</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Sorber.jpg"/>
+            <persName>
+                <firstName>Charles</firstName>
+                <MI>H</MI>
+                <surName>Sorber</surName>
+            </persName>
+            <lotLocation>3</lotLocation>
+            <interred>
+                <date>1962-10-29</date>
+                <intermentNo>77</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1962-10-26</date>
+            </deathDate>
+            <deathPlace>
+                <city>Pittsburgh</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>67</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>cardiac arrest</causeofDeath>
+        </occupant>
+    </lot>
+
+    <lot section="1" number="18">
+        <firstOwner>
+            <persName>
+                <firstName>Mary</firstName>
+                <MI>L</MI>
+                <surName>Fritchman</surName>
+            </persName>
+        </firstOwner>
+
+        <firstOwner>
+            <persName>
+                <firstName>Emma</firstName>
+                <surName>Campbell</surName>
+            </persName>
+        </firstOwner>
+
+        <occupant>
+            <img src="cemeteryPictures/Fritchman3.jpg"/>
+            <persName>
+                <firstName>James</firstName>
+                <MI>C</MI>
+                <surName>Fritchman</surName>
+            </persName>
+            <lotLocation>4</lotLocation>
+            <interred>
+                <date>1938-02-10</date>
+                <intermentNo>15</intermentNo>
+            </interred>
+            <reinterred>
+                <date>1938-04-27</date>
+                <intermentNo>32</intermentNo>
+                <note>moved from 268 H to 18 I</note>
+            </reinterred>
+            <deathDate>
+                <date>1938-02-10</date>
+            </deathDate>
+            <deathPlace>
+                <city>Pitcarin</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>68</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Fritchman3.jpg"/>
+            <persName>
+                <firstName>Mary</firstName>
+                <MI>L</MI>
+                <surName>Fritchman</surName>
+            </persName>
+            <lotLocation>5</lotLocation>
+            <interred>
+                <date>1971-08-06</date>
+                <intermentNo>46</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1971-08-03</date>
+            </deathDate>
+            <deathPlace>
+                <city>Ligonier</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>92</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>hypostatic pneumonia</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Fritchman2.jpg"/>
+            <persName>
+                <firstName>Grant</firstName>
+                <MI>W</MI>
+                <surName>Fritchman</surName>
+            </persName>
+            <lotLocation>6</lotLocation>
+            <interred>
+                <date>1987-05-05</date>
+                <intermentNo>35</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1987-05-02</date>
+            </deathDate>
+            <deathPlace>
+                <city>Monroeville</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>80</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>acute myocardial infarction</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Campbell.jpg"/>
+            <persName>
+                <firstName>George</firstName>
+                <MI>W</MI>
+                <surName>Campbell</surName>
+            </persName>
+            <lotLocation>1</lotLocation>
+            <interred>
+                <date>1947-06-20</date>
+                <intermentNo>43</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1947-06-17</date>
+            </deathDate>
+            <deathPlace>
+                <city>Harrison City</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>62</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Campbell.jpg"/>
+            <persName>
+                <firstName>Emma</firstName>
+                <middleName>Mae</middleName>
+                <surName>Campbell</surName>
+            </persName>
+            <lotLocation>2</lotLocation>
+            <interred>
+                <date>1958-11-10</date>
+                <intermentNo>81</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1958-11-07</date>
+            </deathDate>
+            <deathPlace>
+                <city>Hempfield</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>78</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>arterio sclerotic heart disease</causeofDeath>
+        </occupant>
+    </lot>
+
+
+    <lot section="1" number="17">
+        <firstOwner>
+            <persName>
+                <firstName>Elizabeth</firstName>
+                <MI>M</MI>
+                <surName>Shrum</surName>
+            </persName>
+        </firstOwner>
+
+        <occupant>
+            <img src="cemeteryPictures/McCaulley4.jpg"/>
+            <persName>
+                <firstName>Edwin</firstName>
+                <MI>W</MI>
+                <surName>McCaulley</surName>
+            </persName>
+            <lotLocation>1</lotLocation>
+            <interred>
+                <date>1944-09-14</date>
+                <intermentNo>87</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1944-09-12</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>71</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+
+
+        <occupant>
+            <img src="cemeteryPictures/McCaulley4.jpg"/>
+            <persName>
+                <firstName>Mary</firstName>
+                <MI>K</MI>
+                <surName>McCaulley</surName>
+            </persName>
+            <lotLocation>1B</lotLocation>
+            <cremated>
+                <date>1996-07-23</date>
+            </cremated>
+            <interred>
+                <date>1996-07-31</date>
+                <intermentNo>55</intermentNo>
+                <note> Buried with Edwin</note>
+            </interred>
+            <deathDate>
+                <date>1996-07-19</date>
+            </deathDate>
+            <deathPlace>
+                <city>Greensburg</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>83</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>chronic obstructive pulmonary disease</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/McCaulley3.jpg"/>
+            <persName>
+                <firstName>Nellie</firstName>
+                <MI>A</MI>
+                <surName>McCaulley</surName>
+            </persName>
+            <lotLocation>2</lotLocation>
+            <interred>
+                <date>1953-09-14</date>
+                <intermentNo>57</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1953-09-11</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>76</age>
+            <gender>female</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/McCaulley3.jpg"/>
+            <persName>
+                <firstName>John</firstName>
+                <MI>R</MI>
+                <surName>McCaulley</surName>
+            </persName>
+            <lotLocation>2B</lotLocation>
+            <cremated>
+                <date>1992-10-05</date>
+            </cremated>
+            <interred>
+                <date>1992-10-16</date>
+                <intermentNo>59</intermentNo>
+                <note>Buried with Nellie A.</note>
+            </interred>
+            <deathDate>
+                <date>1992-10-03</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>82</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>respiratory failure</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/McCaulley2.jpg"/>
+            <persName>
+                <firstName>Alfred</firstName>
+                <middleName>Benson</middleName>
+                <surName>McCaulley</surName>
+            </persName>
+            <lotLocation>3</lotLocation>
+            <interred>
+                <date>1947-11-04</date>
+                <intermentNo>76</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1947-11-01</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>30</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Shrum1.jpg"/>
+            <persName>
+                <firstName>John</firstName>
+                <middleName>Baer</middleName>
+                <surName>Shrum</surName>
+            </persName>
+            <lotLocation>4</lotLocation>
+            <interred>
+                <date>1930-07-22</date>
+            </interred>
+            <deathDate>
+                <date>1930-07-20</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>29</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Shrum1.jpg"/>
+            <persName>
+                <firstName>Roberta</firstName>
+                <surName>Shrum</surName>
+                <surName>Faison</surName>
+            </persName>
+            <lotLocation>4B</lotLocation>
+            <interred>
+                <date>1962-08-27</date>
+                <intermentNo>64</intermentNo>
+                <note>Buried John Baer Shrum</note>
+            </interred>
+            <deathDate>
+                <date>1962-08-24</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>0 <note>infant</note></age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>respiratory embarrassment</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Shrum1.jpg"/>
+            <persName>
+                <firstName>Elizabeth</firstName>
+                <MI>M</MI>
+                <surName>Shrum</surName>
+            </persName>
+            <lotLocation>5</lotLocation>
+            <interred>
+                <date>1986-02-23</date>
+                <intermentNo>19</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1986-02-19</date>
+            </deathDate>
+            <deathPlace>
+                <city>Athens</city>
+                <state>Georgia</state>
+            </deathPlace>
+            <age>83</age>
+            <gender>female</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/McCaulley1.jpg"/>
+            <persName>
+                <firstName>Nellie</firstName>
+                <MI>W</MI>
+                <surName>McCaulley</surName>
+            </persName>
+            <lotLocation>6</lotLocation>
+            <interred>
+                <date>1980-07-12</date>
+                <intermentNo>53</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1930-07-09</date>
+            </deathDate>
+            <deathPlace>
+                <city>Hempfield</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>71</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>acute gastrointestinal hemorrhage</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/McCaulley1.jpg"/>
+            <persName>
+                <firstName>Laurie</firstName>
+                <middleName>Elizabeth</middleName>
+                <surName>Faison-Dorsey</surName>
+            </persName>
+            <lotLocation>6B</lotLocation>
+            <cremated>
+                <date>2005-10-17</date>
+            </cremated>
+            <interred>
+                <date>2005-11-12</date>
+                <intermentNo>80</intermentNo>
+                <note>Buried with Nellie W.</note>
+            </interred>
+            <deathDate>
+                <date>2005-10-15</date>
+            </deathDate>
+            <deathPlace>
+                <city>Smithfield</city>
+                <state>Virginia</state>
+            </deathPlace>
+            <age>52</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>advanced pancreatic carcinoma</causeofDeath>
+        </occupant>
+    </lot>
+
+    <lot section="1" number="16">
+        <firstOwner>
+            <persName>
+                <firstName>John</firstName>
+                <MI>A</MI>
+                <surName>Cook</surName>
+            </persName>
+
+            <persName>
+                <firstName>Emma</firstName>
+                <MI>H</MI>
+                <surName>Waugaman</surName>
+            </persName>
+        </firstOwner>
+
+        <occupant>
+            <persName>
+                <firstName>John</firstName>
+                <middleName>Albert</middleName>
+                <surName>Cook</surName>
+            </persName>
+            <lotLocation>1</lotLocation>
+            <interred>
+                <date>1939-08-18</date>
+                <intermentNo>59</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1939-08-14</date>
+            </deathDate>
+            <deathPlace>
+                <city>White Township</city>
+            </deathPlace>
+            <age>36</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <persName>
+                <firstName>Sarah</firstName>
+                <middleName>Elizabeth</middleName>
+                <surName>Cook</surName>
+            </persName>
+            <lotLocation>2</lotLocation>
+            <interred>
+                <date>1931-02-09</date>
+            </interred>
+            <deathDate>
+                <date>1931-02-06</date>
+            </deathDate>
+            <deathPlace>
+                <city>Penn Township</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>24</age>
+            <gender>female</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <persName>
+                <firstName>William</firstName>
+                <MI>G</MI>
+                <surName>Cook</surName>
+            </persName>
+            <lotLocation>3</lotLocation>
+            <interred>
+                <date>1931-10-18</date>
+            </interred>
+            <deathDate>
+                <date>1931-10-15</date>
+            </deathDate>
+            <deathPlace>
+                <city>Penn Township</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age type="months">8</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Waugaman2.jpg"/>
+            <persName>
+                <firstName>Simon</firstName>
+                <MI>U</MI>
+                <surName>Waugaman</surName>
+            </persName>
+            <lotLocation>4</lotLocation>
+            <interred>
+                <date>1929-12-19</date>
+            </interred>
+            <deathDate>
+                <date>1929-12-16</date>
+            </deathDate>
+            <deathPlace>
+                <city>Pittsburgh</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>68</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Waugaman1.jpg"/>
+            <persName>
+                <firstName>Emma</firstName>
+                <surName>Waugaman</surName>
+            </persName>
+            <lotLocation>5</lotLocation>
+            <interred>
+                <date>1952-03-13</date>
+                <intermentNo>21</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1952-03-10</date>
+            </deathDate>
+            <deathPlace>
+                <city>Scranton</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>89</age>
+            <gender>female</gender>
+            <color>white</color>
+        </occupant>
+    </lot>
+
+    <lot section="1" number="15">
+        <firstOwner>
+            <persName>
+                <firstName>Margaret</firstName>
+                <surName>Lauffer</surName>
+                <note> owns lots 4, 5 and 6</note>
+            </persName>
+
+        </firstOwner>
+
+        <!-- Lots 1, 2 and 3 had multiple owners (shown below) -->
+        <firstOwner>
+            <persName>
+                <firstName>Everett</firstName>
+                <MI>S.C.</MI>
+                <surName>Sorber</surName>
+            </persName>
+
+            <persName>
+                <firstName>Madeline</firstName>
+                <surName>Sorber</surName>
+                <purchased>
+                    <date>1948-06-06</date>
+                </purchased>
+            </persName>
+
+        </firstOwner>
+
+        <secondOwner>
+            <persName>
+                <firstName>Edgar</firstName>
+                <surName>Hammer</surName>
+            </persName>
+
+            <persName>
+                <firstName>Ann</firstName>
+                <MI>S</MI>
+                <surName>Hammer</surName>
+                <purchased>
+                    <date>1956-11-03</date>
+                </purchased>
+            </persName>
+
+
+        </secondOwner>
+
+        <thirdOwner>
+            <persName>
+                <firstName>Kerry</firstName>
+                <MI>M</MI>
+                <surName>Anthony</surName>
+            </persName>
+
+            <persName>
+                <firstName>Molly</firstName>
+                <middleName>Ann</middleName>
+                <surName>Anthony</surName>
+                <purchased>
+                    <date>1975-11-12</date>
+                </purchased>
+            </persName>
+
+
+        </thirdOwner>
+
+        <occupant>
+            <img src="cemeteryPictures/Lauffer7.jpg"/>
+            <persName>
+                <firstName>Charles</firstName>
+                <middleName>Raymond</middleName>
+                <surName>Lauffer</surName>
+            </persName>
+            <lotLocation>4</lotLocation>
+            <interred>
+                <date>1939-04-12</date>
+                <intermentNo>33</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1939-04-09</date>
+            </deathDate>
+            <deathPlace>
+                <city>Manor</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>32</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+    </lot>
+
+    <lot section="1" number="14">
+        <firstOwner>
+            <persName>
+                <firstName>Harry</firstName>
+                <MI>J</MI>
+                <surName>Gongaware</surName>
+            </persName>
+        </firstOwner>
+
+        <occupant>
+            <persName>
+                <firstName>Harry</firstName>
+                <MI>C</MI>
+                <surName>Gongaware</surName>
+            </persName>
+            <lotLocation>1</lotLocation>
+            <interred>
+                <date>1988-10-12</date>
+                <intermentNo>73</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1988-10-08</date>
+            </deathDate>
+            <deathPlace>
+                <city>Jeannette</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>74</age>
+            <gender>male</gender>
+            <color>white</color>
+            <causeofDeath>cardiac arrest</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <persName>
+                <firstName>Catherine</firstName>
+                <surName>Gongaware</surName>
+            </persName>
+            <lotLocation>2</lotLocation>
+            <interred>
+                <date>1996-08-24</date>
+                <intermentNo>65</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1996-08-21</date>
+            </deathDate>
+            <deathPlace>
+                <city>Greensburg</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>80</age>
+            <gender>female</gender>
+            <color>white</color>
+            <causeofDeath>myocardial infarction</causeofDeath>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Gongaware1.jpg"/>
+            <persName>
+                <firstName>Harry</firstName>
+                <middleName>Jonas</middleName>
+                <surName>Gongaware</surName>
+            </persName>
+            <lotLocation>3</lotLocation>
+            <interred>
+                <date>1950-11-08</date>
+                <intermentNo>77</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1950-11-04</date>
+            </deathDate>
+            <age>72</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+    </lot>
+
+    <lot section="1" number="13">
+        <firstOwner>
+            <persName>
+                <firstName>William</firstName>
+                <MI>J</MI>
+                <surName>Coles</surName>
+            </persName>
+        </firstOwner>
+
+        <occupant>
+            <img src="cemeteryPictures/Coles.jpg"/>
+            <persName>
+                <firstName>William</firstName>
+                <MI>J</MI>
+                <surName>Coles</surName>
+            </persName>
+            <lotLocation>1</lotLocation>
+            <interred>
+                <date>1947-07-13</date>
+                <intermentNo>48</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1947-07-09</date>
+            </deathDate>
+            <deathPlace>
+                <city>Homestead</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>83</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Coles.jpg"/>
+            <persName>
+                <firstName>Anna</firstName>
+                <surName>Coles</surName>
+            </persName>
+            <lotLocation>2</lotLocation>
+            <interred>
+                <date>1944-07-08</date>
+                <intermentNo>69</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1944-07-06</date>
+            </deathDate>
+            <deathPlace>
+                <city>Homestead</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>81</age>
+            <gender>female</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Shirey.jpg"/>
+            <persName>
+                <firstName>Charles</firstName>
+                <middleName>Alfred</middleName>
+                <surName>Shirey</surName>
+                <genName>Doctor</genName>
+            </persName>
+            <lotLocation>4</lotLocation>
+            <interred>
+                <date>1946-01-04</date>
+                <intermentNo>1</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1946-01-01</date>
+            </deathDate>
+            <deathPlace>
+                <city>Manor</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>83</age>
+            <gender>male</gender>
+            <color>white</color>
+        </occupant>
+
+        <occupant>
+            <img src="cemeteryPictures/Shirey.jpg"/>
+            <persName>
+                <firstName>Emily</firstName>
+                <MI>G</MI>
+                <surName>Munson</surName>
+                <surName>Shirey</surName>
+            </persName>
+            <lotLocation>5</lotLocation>
+            <interred>
+                <date>1940-11-23</date>
+                <intermentNo>96</intermentNo>
+            </interred>
+            <deathDate>
+                <date>1940-11-17</date>
+            </deathDate>
+            <deathPlace>
+                <city>Manor</city>
+                <state>Pennsylvania</state>
+            </deathPlace>
+            <age>75</age>
+            <gender>female</gender>
+            <color>white</color>
+        </occupant>
+    </lot>
+</root>
