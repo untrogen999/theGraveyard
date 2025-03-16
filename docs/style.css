@@ -77,7 +77,10 @@ ul.topnav li a:hover {
 background-color: #acc1ca;
 }
 .navBar li:hover .sub-menu {
-    z-index:1;
+    /* AZ:
+        Originally there was a "z-index:1;" rule set here.
+        It wasn't needed since the z-index was already set below.
+    */
     opacity:1;
     visibility: visible;
 }
@@ -88,8 +91,24 @@ background-color: #acc1ca;
     position:absolute;
     top:25.7%;
     left:38.9%;
-    z-index:-1;
+    /* AZ:
+        Originally "z-index:-1;"
+        Give the submenu a higher z-index so that other elements don't
+        cover it.
+        That way the sub menu doesn't instantly disappear when moving
+        the mouse off the main nav bar. This also allows the fade-out
+        effect to actually show now.
+    */
+    z-index:1;
     opacity:0;
+    /* AZ:
+        "visibility" rule originally didn't exist.
+        Just changing the z-index above isn't enough to have the site
+        function as intended. Without explicitly hiding the menu while
+        NOT hovered over, hovering over the space where the submenu was
+        would reveal it.
+    */
+    visibility: hidden;
     transition:opacity linear 0.15s;
     box-shadow:0px 2px 3px rgba(0,0,0,0.2);
 background-color: white;
@@ -109,7 +128,10 @@ background-color: white;
 background-color: white;
 }
 .navBar li:hover .sub-menu2 {
-    z-index:1;
+    /* AZ:
+        Originally there was a "z-index:1;" rule set here.
+        It wasn't needed since the z-index was already set below.
+    */
     opacity:1;
     visibility: visible;
 }
@@ -120,8 +142,24 @@ background-color: white;
     position:absolute;
     top:25.7%;
     left:50.5%;
-    z-index:-1;
+    /* AZ:
+        Originally "z-index:-1;"
+        Give the submenu a higher z-index so that other elements don't
+        cover it.
+        That way the sub menu doesn't instantly disappear when moving
+        the mouse off the main nav bar. This also allows the fade-out
+        effect to actually show now.
+    */
+    z-index:1;
     opacity:0;
+    /* AZ:
+        "visibility" rule originally didn't exist.
+        Just changing the z-index above isn't enough to have the site
+        function as intended. Without explicitly hiding the menu while
+        NOT hovered over, hovering over the space where the submenu was
+        would reveal it.
+    */
+    visibility: hidden;
     transition:opacity linear 0.15s;
     box-shadow:0px 2px 3px rgba(0,0,0,0.2);
 background-color: white;
@@ -238,7 +276,10 @@ background-color: #acc1ca;
 }
 .menuBar li:hover .sub-nav {
     position: absolute;
-    z-index:1;
+    /* AZ:
+        Originally there was a "z-index:1;" rule set here.
+        It wasn't needed since the z-index was already set below.
+    */
     opacity:1;
     visibility: visible;
 }
@@ -248,7 +289,15 @@ background-color: #acc1ca;
     position:absolute;
     top:15.3%;
     left:41.6%;
-    z-index:-1;
+    /* AZ:
+        Originally "z-index:-1;"
+        Give the submenu a higher z-index so that other elements don't
+        cover it.
+        That way the sub menu doesn't instantly disappear when moving
+        the mouse off the main nav bar. This also allows the fade-out
+        effect to actually show now.
+    */
+    z-index:1;
     opacity:0;
     visibility: hidden;
     transition:opacity linear 0.15s;
@@ -271,7 +320,10 @@ background-color: white;
 }
 .menuBar li:hover .sub-nav2 {
     position: absolute;
-    z-index:1;
+    /* AZ:
+        Originally there was a "z-index:1;" rule set here.
+        It wasn't needed since the z-index was already set below.
+    */
     opacity:1;
     visibility: visible;
 }
@@ -281,7 +333,15 @@ background-color: white;
     position:absolute;
     top:15.3%;
     left:53.5%;
-    z-index:-1;
+    /* AZ:
+        Originally "z-index:-1;"
+        Give the submenu a higher z-index so that other elements don't
+        cover it.
+        That way the sub menu doesn't instantly disappear when moving
+        the mouse off the main nav bar. This also allows the fade-out
+        effect to actually show now.
+    */
+    z-index:1;
     opacity:0;
     visibility: hidden;
     transition:opacity linear 0.15s;
