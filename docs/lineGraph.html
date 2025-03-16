@@ -4,7 +4,30 @@
             <title>Line Graph</title>
             <link rel="stylesheet" type="text/css" href="style.css" />
       </head>
-      <body><!--#include virtual="menu.shtml" -->
+      <body>
+        <!-- AZ: Replace SSI include with the HTML instead. It's just a nav bar. -->
+        <h1 class="ssiHeader">theGraveyard</h1>
+        <div id="menu"><img alt="Creative Commons License"  src="cc.png" class="menuImage"/></div>
+
+        <div id="header">
+            <div class="menu-wrap"><nav class="menuBar"><ul class="topMenu" id="myTopmenu">
+                <li><a href="index.html">Home</a>
+                    <li><a href="about.html">About</a>
+                        <ul class="sub-nav">
+                            <li><a href="about.html">Our Team</a></li>
+                            <li><a href="methodology.html">Methods</a></li>
+                            <li><a href="cemetery.html">The Cemetery</a></li>
+                        </ul></li>
+                    <li><a href="map.html">Map</a></li>
+                    <li><a href="pieChart.html">Analysis</a>
+                        <ul class="sub-nav2">
+                            <li><a href="pieChart.html">graph 1</a></li>
+                            <li><a href="lineGraph.html">graph 2</a></li>
+                            <li><a href="ageGraphOutput.html">graph 3</a></li>
+                        </ul></li>
+            </ul></nav></div>
+        </div>
+        
             <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" class="lineGraph">
                   <g transform="translate(100 350)">
                         <text x="520" y="-320" text-anchor="middle" font-size="20px"> Number of
