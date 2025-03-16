@@ -32,6 +32,6 @@ The original project repo, if you're interested, is hosted also on Github, but i
 
 ***
 
-# Original description
+# Original Project Description
 
 Here is where the Graveyard archiving project begins! Welcome to everyone wishing to contribute.
