@@ -211,6 +211,13 @@ background-color: white;
 	display: table-cell;
 	width: 300px;
 	height: 100px;
+    /* AZ:
+        "color" rule originally didn't exist.
+        Author bios weren't readable because the text was set to a very
+        non-visible color by default in my browser, due to the brown background color.
+        Setting the color to black means the varying default font colors aren't used.
+    */
+    color: #000;
 	background-color: #725d5f;
 	opacity: 0.8;
 }
