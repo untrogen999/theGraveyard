@@ -25,6 +25,7 @@ While this project wasn't created nor meant to fix the project's code or any lay
 
 * Submenus in the navigation bars would disappear as soon as the mouse cursor moved away from the menu item revealing them. This was fixed so that submenus are now hoverable. This was fixed in the "style.css" file.
 * The default text color on member bios on one of the archiver's system and browser were unreadable, so the text color on only the member bios page was set to black in the "style.css" file.
+* The `cemeteryPictures` folder was moved from the root of the repo to inside `docs` because some images in the table in `map.html` are from only the former folder.
 
 This revival project and all its files are licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 The original project repo, if you're interested, is hosted also on Github, but it does not use Github Pages:
